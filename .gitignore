@@ -2,4 +2,5 @@ bin/
 etc/
 lib/
 share/
+include/
 pyvenv.cfg
